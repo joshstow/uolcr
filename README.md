@@ -1,2 +1,2 @@
-# uolcr-resources
-University of Liverpool Coding &amp; Robotics Society Resources
+# Coding &amp; Robotics Society Resources
+University of Liverpool 
