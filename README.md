@@ -1,2 +1,9 @@
-# Coding &amp; Robotics Society Resources
-University of Liverpool 
+# Coding &amp; Robotics Society Workshops Resources
+University of Liverpool
+
+This repository stores code-only materials for Coding &amp; Robotics Society workshops. It does not include slides, recordings, or general resources.
+
+## Workshops
+| ID | Title | Link |
+| --- | --- | --- |
+| 01 | Computer Vision Workshop | https://github.com/joshstow/computer-vision-workshop |
