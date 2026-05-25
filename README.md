@@ -6,4 +6,4 @@ This repository stores code-only materials for Coding &amp; Robotics Society wor
 ## Workshops
 | ID | Title | Link |
 | --- | --- | --- |
-| 01 | Computer Vision Workshop | https://github.com/joshstow/computer-vision-workshop |
+| 01 | Computer Vision Workshop | [&#8599;](https://github.com/joshstow/computer-vision-workshop) |
