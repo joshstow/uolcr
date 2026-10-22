@@ -8,3 +8,4 @@ This repository stores code-only materials for Coding &amp; Robotics Society wor
 | --- | --- | --- | --- |
 | 01 | Computer Vision Workshop | From OpenCV fundamentals through to deep-learning approaches, with hands-on tasks that build up from classic image processing to modern models. | [&#8599;](https://github.com/joshstow/computer-vision-workshop) |
 | 02 | Arduino Workshop 01 - Traffic Light | From breadboard basics and simple LED circuits through to your first lines of Arduino C++, with hands-on tasks that build up to a working traffic light system. | [&#8599;](https://github.com/joshstow/uolcr/tree/main/02_traffic_light) |
+| 03 | Arduino Workshop 02 - Automatic Door | Using an ultrasonic sensor and a servo motor, you’ll learn to measure distance with Arduino C++ and turn those readings into movement, ending with a working automatic door. | [&#8599;](https://github.com/joshstow/uolcr/tree/main/03_automatic_door) |
