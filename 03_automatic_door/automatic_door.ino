@@ -47,7 +47,7 @@ void loop()
   Serial.println(" cm");
 
   // servo moves "open" when the distance measured is less than 10 (can be changed)
-  if (distance < 10){
+  if (distance < 10) {
     // sets the servo postion to 90 degrees
     myservo.write( );   // MISSING! syntax: myservo.write(degree);
   }
