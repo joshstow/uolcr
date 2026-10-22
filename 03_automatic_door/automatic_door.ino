@@ -53,6 +53,6 @@ void loop()
   }
 
   else {
-    myservo.write( );   //MISSING! syntax: myservo.write(degree);
+    myservo.write( );   // MISSING! syntax: myservo.write(degree);
   }
 }
